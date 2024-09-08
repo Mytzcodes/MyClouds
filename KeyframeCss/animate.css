@@ -1,0 +1,15 @@
+@keyframes text {
+    0% {opacity: 0%;}
+    50% {opacity: 100%;}
+    100% {opacity: 0%;}
+}
+
+@keyframes scrol-down {
+    0% {transform: translateX(-0);}    
+    100% {transform: translateX(0);}
+}
+
+@keyframes scrol-Ups {
+    0% {transform: translateX(0);}    
+    100% {transform: translateX(-0);}
+}
