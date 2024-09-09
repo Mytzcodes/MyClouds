@@ -1,5 +1,5 @@
 const handler = document.querySelector('.maintence-Handler');
-let handlerCount = 1;
+let handlerCount = 0;
 
 // Used The Logic 0 to off the Maintence and 1 to On Maintenance Pages
 if (handlerCount === 0) {  
